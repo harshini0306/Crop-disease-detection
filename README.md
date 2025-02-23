@@ -1,2 +1,2 @@
 # Crop-disease-detection
-This project is a deep learning-based application for detecting plant diseases from leaf images using a Convolutional Neural Network (CNN). The model classifies images into various crop diseases.
+This project is a Crop Disease Detection system that utilizes a Convolutional Neural Network (CNN) to classify plant diseases based on leaf images. The model can identify multiple crop diseases and healthy plant conditions.
