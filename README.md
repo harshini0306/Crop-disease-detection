@@ -1,8 +1,8 @@
 This project is a Crop Disease Detection system that utilizes a Convolutional Neural Network (CNN) to classify plant diseases based on leaf images. The model can identify multiple crop diseases and healthy plant conditions.
 
-📂 Dataset Used
+📂 Dataset Used:
 You can download the dataset from:
-🔗 New Plant Diseases Dataset
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 🚀 Steps to Run the Project
 1️⃣ Download and Upload the Dataset
